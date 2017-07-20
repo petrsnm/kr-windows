@@ -1,2 +1,2 @@
 # kr-windows
-Windows utilities for the excellent krypt.co kr ssh-agent
+Windows functionality for the excellent krypt.co kr ssh-agent
